@@ -1,0 +1,22 @@
+@media screen and (max-height: 450px) {
+    .sidenav {
+      padding-top: 15px;
+    }
+    .sidenav a {
+      font-size: 18px;
+    }
+    .body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+    .content {
+        width: 100%;
+        text-align: center;
+        position: relative;
+        border: 2px solid #5f98ae;
+        padding: 20px;
+        box-sizing: border-box;
+        margin-top: 10px;
+    }
+  }
