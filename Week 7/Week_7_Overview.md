@@ -6,3 +6,4 @@ For Week 7 there wasn't much to do for the frontend development so i designed to
  - CSS Styling for desktop and mobile improvements
 ## Tasks to do
  - Create a filtering system that can list the details for a specific sensor
+ - Create the CSS style for the correlation page for mobile and desktop
